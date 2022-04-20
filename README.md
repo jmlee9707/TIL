@@ -10,6 +10,13 @@
     * [생활 코딩](https://opentutorials.org/course/743)
     * [노마드코더 - 바닐라 JS로 크롬 앱 만들기](https://nomadcoders.co/javascript-for-beginners)
 
+<br>
+
+* [자바스크립트 선언]()
+* [variables]()
+
+
+
 <!-- ### Spring Framework
 ---
 * Spring?
