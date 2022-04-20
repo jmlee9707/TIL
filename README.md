@@ -3,11 +3,11 @@
 
 ### JavaScipt
 ---
-*[참고 사이트]
+* 참고 사이트
     * [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
     * [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
     * [three js](https://threejs.org/)
-    * [생활 코딩] (https://opentutorials.org/course/743)
+    * [생활 코딩](https://opentutorials.org/course/743)
     * [노마드코더 - 바닐라 JS로 크롬 앱 만들기](https://nomadcoders.co/javascript-for-beginners)
 
 <!-- ### Spring Framework
