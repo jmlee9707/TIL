@@ -1,5 +1,5 @@
 # Today I Learned(TIL)
-[![Blog](https://img.shields.io/badge/Blog-jmlee9707.tistory-blueviolet.svg)](https://jmlee9707.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-jmlee9707.velog-blueviolet.svg)](https://velog.io/@jmlee9707)
 
 ### JavaScipt
 ---
@@ -14,8 +14,14 @@
 
 * [자바스크립트 선언](https://github.com/jmlee9707/TIL/blob/main/JavaScript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%84%A0%EC%96%B8.md)
 * [variables](https://github.com/jmlee9707/TIL/blob/main/JavaScript/%EB%B3%80%EC%88%98.md)
+* [Arrays]()
 
-
+### Vue.js
+---
+* 참고 사이트
+    * [Vue 공식문서](https://kr.vuejs.org/)
+<br>
+* [Vue.js란?]()
 
 <!-- ### Spring Framework
 ---
