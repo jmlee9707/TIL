@@ -26,6 +26,7 @@
 
 * [Vue.js란?](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue.js%EB%9E%80%3F.md)
 * [Vue Instance](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_Instance.md)
+* [보간법_Interpolation](https://github.com/jmlee9707/TIL/blob/main/Vue.js/%EB%B3%B4%EA%B0%84%EB%B2%95_Interpolation.md)
 
 <!-- ### Spring Framework
 ---
