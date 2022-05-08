@@ -1,3 +1,5 @@
+[다른 명령어 - DDL, DCL, TCL](https://velog.io/@jmlee9707/DB-SQL%EB%AA%85%EB%A0%B9%EC%96%B4DDL-DML-DCL-TCL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85)
+
 # DML(Data Manipulation Language)
 * DML : 데이터 조작어 
 * 데이터 검색, 삽입, 변경, 삭제를 수행하여 조작하는 언어
@@ -36,11 +38,11 @@ VALUES(col_val1, col_val2, col_val3...),
 ```sql
 -- 회원 정보 등록
 -- 'kim', '김', '1234', 'kimkim', 'skim.com, 'ssafy.com' 등록시간
-insert into ssafy_member(userid, username, userpwd, emailid, emaildomain, joindate)
+insert into member(userid, username, userpwd, emailid, emaildomain, joindate)
 values('kim', '김', '1234', 'kimkim', 'skim.com', now());
 
 -- '제니', 'jenny', '1234'
-insert into ssafy_member(username, userid, userpwd)
+insert into member(username, userid, userpwd)
 values('제니', 'jenny', '1234');
 ```
 
@@ -50,11 +52,11 @@ values('제니', 'jenny', '1234');
 
 ```sql
 /*where절을 설정하지 않았을 경우 모두 바뀜*/
-UPDATE ssafy_member
+UPDATE member
 set userpwd = '9876', emaildomain = 'kimkimkim.co.kr';
 
 /*where절 설정*/
-UPDATE ssafy_member
+UPDATE member
 set userpwd = '5432', emaildomain = 'kimkimkim.co.kr'
 where userid = 'kim';
 ```
@@ -70,7 +72,7 @@ WHERE conditions;
 
 ```sql
 -- userid가 kim 회원 탈퇴
-DELETE from ssafy_member
+DELETE from member
 where userid = 'kim';
 ```
 
