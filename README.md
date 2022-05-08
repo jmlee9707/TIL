@@ -37,6 +37,7 @@
 * [SQL명령어(DML)](https://github.com/jmlee9707/TIL/blob/main/DataBase/SQL%EB%AA%85%EB%A0%B9%EC%96%B4_DML.md)
 * [Join](https://github.com/jmlee9707/TIL/blob/main/DataBase/Join.md)
 * [SubQuery](https://github.com/jmlee9707/TIL/blob/main/DataBase/SubQuery.md)
+* [MySQL 내장함수](https://github.com/jmlee9707/TIL/blob/main/DataBase/MySQL_%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98.md)
 <!-- ### Spring Framework
 ---
 * Spring?
