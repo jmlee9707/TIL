@@ -1,4 +1,4 @@
-## DML(Data Manipulation Language)
+# DML(Data Manipulation Language)
 * DML : 데이터 조작어 
 * 데이터 검색, 삽입, 변경, 삭제를 수행하여 조작하는 언어
 * 실질적으로 저장된 데이터를 처리할 때 사용
@@ -10,7 +10,7 @@
 |update(U)|데이터베이스 객체에 데이터를 수정|
 |delete(D)|데이터베이스 객체에 데이터를 삭제|
 
-### INSERT
+## INSERT
 생략이 가능한 field
 * NULL이 허용된 컬럼
 * DEFAULT가 설정된 컬럼
@@ -44,7 +44,7 @@ insert into ssafy_member(username, userid, userpwd)
 values('제니', 'jenny', '1234');
 ```
 
-### UPDATE
+## UPDATE
 * WHERE 절의 conditions(조건)에 만족하는 레코드의 값을 변경
 * 주의 : WHERE 절을 생략하면 모든 데이터가 바뀐다
 
@@ -59,7 +59,7 @@ set userpwd = '5432', emaildomain = 'kimkimkim.co.kr'
 where userid = 'kim';
 ```
 
-###	DELETE
+##	DELETE
 * WHERE절의 conditions(조건)에 만족하는 레코드의 값을 삭제
 * 주의 : WHERE절을 생략하면 모든 데이터가 삭제된다
 
@@ -74,7 +74,7 @@ DELETE from ssafy_member
 where userid = 'kim';
 ```
 
-### SELECT
+## SELECT
 > select, from, where,  groupby, having, orderby...
 
 ```sql
@@ -90,7 +90,7 @@ FROM table_name;
 |expression|효션식은 값으로 인식되는 하나 이상의 값, 연산자 및 SQL 함수의 조합을 뜻함
 |alias|별칭
 
-#### 기본 SELECT
+### 기본 SELECT
 
 ```sql
 -- 모든 사원의 모든 정보 검색.
