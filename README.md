@@ -38,6 +38,7 @@
 * [Join](https://github.com/jmlee9707/TIL/blob/main/DataBase/Join.md)
 * [SubQuery](https://github.com/jmlee9707/TIL/blob/main/DataBase/SubQuery.md)
 * [MySQL 내장함수](https://github.com/jmlee9707/TIL/blob/main/DataBase/MySQL_%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98.md)
+* [DataBase Modeling](https://github.com/jmlee9707/TIL/blob/main/DataBase/DataBase_Modeling.md)
 <!-- ### Spring Framework
 ---
 * Spring?
