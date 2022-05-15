@@ -33,6 +33,9 @@
   - [BootStrap Vue](https://bootstrap-vue.org/)
   - [Vuetify](https://vuetifyjs.com/)
     <br>
+  - [axios github](https://github.com/axios/axios)
+  - [axios API 가이드](https://axios-http.com/kr/docs/intro)
+  - [vue router](https://v3.router.vuejs.org/kr/installation.html)
 
 - [Vue.js란?](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue.js%EB%9E%80%3F.md)
 - [Vue Instance](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_Instance.md)
@@ -41,7 +44,9 @@
 - [Vue Instance 속성 - method, filter, computed, watch](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_Instance%EC%86%8D%EC%84%B1.md)
 - [Vue Event](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_Event.md)
 - [바인딩 binding](https://github.com/jmlee9707/TIL/blob/main/Vue.js/%EB%B0%94%EC%9D%B8%EB%94%A9_binding.md)
-- [Component]()
+- [Component](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Component.md)
+- [axios](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Axios_RestAPI.md)
+- [Router](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Router.md)
 
 - [Vue 프로젝트 생성 & 에러정리](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_project_%EC%83%9D%EC%84%B1_%EC%97%90%EB%9F%AC.md)
 
