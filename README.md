@@ -26,8 +26,9 @@
 ---
 
 - 참고 사이트
-  _ [Vue 공식문서](https://kr.vuejs.org/)
-  _ [Vue CLI](https://cli.vuejs.org/guide/)
+
+  - [Vue 공식문서](https://kr.vuejs.org/)
+  - [Vue CLI](https://cli.vuejs.org/guide/)
 
   - [BootStrap Vue](https://bootstrap-vue.org/)
   - [Vuetify](https://vuetifyjs.com/)
