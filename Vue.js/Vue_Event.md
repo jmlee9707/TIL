@@ -4,7 +4,7 @@
 
 ## 이벤트 청취 => v-on
 
-- DOM Event를 청취(listener)하기 위해 `v-on` deirective 사용
+- DOM Event를 청취(listener)하기 위해 `v-on` directive 사용
 - v-on directive를 사용하여 DOM 이벤트를 듣고 트리거 될 떄 JavaScript를 실행할 수 있다
 - inline event handling -> jQuery는 스크립트에서 로직처리
 - method를 이용한 event handling
@@ -134,7 +134,7 @@ prevent 수식어를 사용하기 이전에는 button을 사용시 중복으로 
 
 - `.enter` : 엔터를 누르는 순간 <= 제일 많이 사용
 - `.tab`
-- `.delete (“Delete” 와 “Backspace” 키 모두를 캡처합니다)`
+- `.delete` (“Delete” 와 “Backspace” 키 모두를 캡처합니다)
 - `.esc`
 - `.space`
 - `.up` : 키보드 방향키를 누르는 순간
