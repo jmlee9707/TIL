@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-jmlee9707.velog-blueviolet.svg)](https://velog.io/@jmlee9707)
 
-### JavaScipt
+## JavaScipt
 
 ---
 
@@ -21,7 +21,7 @@
 - [반복문](https://github.com/jmlee9707/TIL/blob/main/JavaScript/%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 - [모듈](https://github.com/jmlee9707/TIL/blob/main/JavaScript/%EB%AA%A8%EB%93%88.md)
 
-### Vue.js
+## Vue.js
 
 ---
 
@@ -38,14 +38,14 @@
 - [Vue Instance](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_Instance.md)
 - [보간법 - Interpolation](https://github.com/jmlee9707/TIL/blob/main/Vue.js/%EB%B3%B4%EA%B0%84%EB%B2%95_Interpolation.md)
 - [Template - directive](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Template_directive.md)
-- [Vue Instance 속성 - method, filter, computed, watch]()
+- [Vue Instance 속성 - method, filter, computed, watch](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_Instance%EC%86%8D%EC%84%B1.md)
 - [Vue Event]()
 - [CSS binding]()
 - [Component]()
 
-- [Vue 프로젝트 생성 & 에러정리]()
+- [Vue 프로젝트 생성 & 에러정리](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_project_%EC%83%9D%EC%84%B1_%EC%97%90%EB%9F%AC.md)
 
-### DataBase
+## DataBase
 
 ---
 
@@ -66,7 +66,7 @@
 
 --- -->
 
-### Git
+## Git
 
 ---
 
