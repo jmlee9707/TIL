@@ -4,7 +4,7 @@
 
 - Vue Instance는 생성과 관련된 data 및 method로 정의 가능
 - method안에서 data를 "this.데이터이름"으로 접근 가능
-- 인스턴스가안에서 인스턴스가 가지고 있는 데이터, 인스턴스를 호출하고 싶을땐 this. 으로 접근해야함
+- 인스턴스가 안에서 인스턴스가 가지고 있는 데이터, 인스턴스를 호출하고 싶을땐 this. 으로 접근해야함
 
 ```html
 <body>
@@ -17,8 +17,8 @@
     new Vue({
       el: "#app",
       data: {
-        message: "Hello 싸피",
-        name: "안효인" /*methods에서 사용*/,
+        message: "Hello",
+        name: "미피" /*methods에서 사용*/,
       },
       methods: {
         helloEng: function () {
@@ -193,7 +193,8 @@ computed `VS` method 의 차이점
 
 ## Vue watch 속성
 
-> [공식문서 - 필수](https://kr.vuejs.org/v2/guide/computed.html)Vue는 Vue 인스턴스의 데이터 변경을 관찰하고 이에 반응하는 보다 일반적인 watch 속성을 제공
+> [공식문서 - 필수](https://kr.vuejs.org/v2/guide/computed.html)
+> Vue는 Vue 인스턴스의 데이터 변경을 관찰하고 이에 반응하는 보다 일반적인 watch 속성을 제공
 
 **명령적인 watch 콜백보다 computed 속성을 사용하는 것이 더 좋다.**
 `watch 속성` : 감시할 데이터를 지정하고 그 데이터가 바뀌면 이런 함수를 실행하라는 방식으로 소프트웨어 공학에서 이야기하는 **‘명령형 프로그래밍’ 방식.**
