@@ -35,6 +35,7 @@
   - [axios github](https://github.com/axios/axios)
   - [axios API 가이드](https://axios-http.com/kr/docs/intro)
   - [vue router](https://v3.router.vuejs.org/kr/installation.html)
+  - [Vuex 공식문서](https://v3.vuex.vuejs.org/kr/)
 
 - [Vue.js란?](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue.js%EB%9E%80%3F.md)
 - [Vue Instance](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_Instance.md)
@@ -46,6 +47,7 @@
 - [Component](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Component.md)
 - [axios](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Axios_RestAPI.md)
 - [Router](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Router.md)
+- [Vuex]()
 
 - [Vue 프로젝트 생성 & 에러정리](https://github.com/jmlee9707/TIL/blob/main/Vue.js/Vue_project_%EC%83%9D%EC%84%B1_%EC%97%90%EB%9F%AC.md)
 
@@ -69,6 +71,12 @@
 ### Vue
 
 --- -->
+
+---
+
+## Algorithm
+
+- [순열(permutation), 조합]()
 
 ---
 

@@ -6,8 +6,30 @@ cd cli-first-app
 
 npm run serve
 
+## 초기세팅
+
 npm i axios
 npm i moment
+npm install --save vuex-persistedstate
+
+## 부트스트랩 추가
+
+npm install vue bootstrap-vue bootstrap
+
+main.js에 추가
+
+```
+import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
+
+// Import Bootstrap and BootstrapVue CSS files (order is important)
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+
+// Make BootstrapVue available throughout your project
+Vue.use(BootstrapVue)
+// Optionally install the BootstrapVue icon components plugin
+Vue.use(IconsPlugin)
+```
 
 # Vue error
 
