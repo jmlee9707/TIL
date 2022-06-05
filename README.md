@@ -77,7 +77,7 @@
 ## Algorithm
 
 - [순열(permutation), 조합(Combination)](https://github.com/jmlee9707/TIL/blob/main/Algorithm/%EC%88%9C%EC%97%B4%2C%EC%A1%B0%ED%95%A9.md)
-- [부분집합(subset)]()
+- [부분집합(subset)](https://github.com/jmlee9707/TIL/blob/main/Algorithm/%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.md)
 
 ---
 
